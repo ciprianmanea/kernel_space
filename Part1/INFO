@@ -1,0 +1,23 @@
+Part1
+=====
+Created joi 29 ianuarie 2015
+
+Drivers and busses
+* There are controllers!
+	* bus drivers
+	* device drivers
+* Drivers have two parts
+	* device-specific
+	* OS-specific
+* Drivers can be splited in:
+	* Packet-oriented
+	* Block-oriented
+	* Byte-oriented	
+* An OS performs 5 management fct:
+	* CPU/process
+	* memory
+	* network
+	* storage
+	* device I/O
+* Device Driver → drives a device
+* Driver → drives just another piece of software

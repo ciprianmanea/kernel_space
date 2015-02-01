@@ -1,0 +1,21 @@
+Part2
+=====
+Created sâmbătă 31 ianuarie 2015
+
+* dinamically loadable drivers → modules
+* .ko → kernel object
+* /lib/modules/`uname -r`/kernel
+* /usr/src/linux-headers-3.13.0-44/
+* # lsmod
+* # insmod <module_file>
+* # modprobe <module>
+* # rmmod <module>
+* Linux Kernel is an object oriented implementation in C
+
+
+Git
+* # git branch non_tracking
+* # git push origin non_tracking
+* # git push origin master
+* # git log  --oneline origin/master
+* # git log --oneline non_tracking
